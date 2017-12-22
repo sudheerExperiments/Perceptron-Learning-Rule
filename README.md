@@ -28,6 +28,12 @@ I recommend to use anaconda library to make life simpler instead of installing t
 
 * [Anaconda library](https://www.anaconda.com/download)
 
+## Description:
+
+* *Input Weight 1*, *Input Weight 2* and *Bias* are used to select desired weights.
+* *Generate* button generates four random points in two classes.
+* *Train* button displays generated decision boundary.
+
 ## Deployment:
 
 1. Run **Raja_01_01** program. 
